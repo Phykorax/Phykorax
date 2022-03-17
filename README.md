@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phykorax
 - 👀 I’m a web developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning to become a full stack Developer
+- 💞️ I’m looking to collaborate on projects that illuminates purpose
 - 📫 Reach me at emmanuelfamilusi@gmail.com
 
 <!---
